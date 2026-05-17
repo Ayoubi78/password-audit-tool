@@ -1,13 +1,16 @@
-# Prompts Used
+# Prompt Evidence Record
 
 ## Prompt 1
-Create a beginner-friendly Python password checker with score and feedback.
-
-### Output Used
-Used as base code for first draft in audit.py.
+Create a beginner-friendly Python password audit tool with score, strength category, and suggestions.
 
 ## Prompt 2
-Suggest improvements for weak/common password detection.
+Refactor the code to make rules clearer and easier to read for a beginner.
 
-### Output Used
-Added weak password list and scoring penalty.
+## Prompt 3
+Add detection for common weak passwords and adjust scoring.
+
+## Prompt 4
+Generate simple pytest unit tests for weak, medium, and strong password cases.
+
+## Prompt 5
+Draft a concise README and report structure for coursework submission.
